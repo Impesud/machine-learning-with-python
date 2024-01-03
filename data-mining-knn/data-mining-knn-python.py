@@ -40,7 +40,7 @@ k_range = range(1,31)
 scores = {}
 scores_list = []
 
-# Try running from k=1 through 20 and record testing accuracy
+# Try running from k=1 through 30 and record testing accuracy
 #%%
 for k in k_range:
 
